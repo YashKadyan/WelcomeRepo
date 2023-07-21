@@ -14,8 +14,8 @@ public class WelcomeDemo
 		
 		System.out.println("Welcome " + name + " !");
 		
-//		Date date = new Date();
-//		System.out.println("Current Date is : " + date.getDay());
-//		System.out.println("Current Time is : " + date.getHours() + " : " + date.getMinutes() + " : " + date.getSeconds());
+		Date date = new Date();
+		System.out.println("Current Date is : " + date.getDay());
+		System.out.println("Current Time is : " + date.getHours() + " : " + date.getMinutes() + " : " + date.getSeconds());
 	}
 }
